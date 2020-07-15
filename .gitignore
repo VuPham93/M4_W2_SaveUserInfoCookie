@@ -1,0 +1,6 @@
+*.iml
+.idea
+.gradle
+.gitattributes
+build
+out
